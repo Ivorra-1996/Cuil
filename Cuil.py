@@ -1,5 +1,5 @@
 
-
+#Creo una clase
 class Cuil:
     def __init__(self,tipoPersona,dni):
         self.valor1 = str(tipoPersona) + str(dni)
